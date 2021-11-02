@@ -1,6 +1,4 @@
-import logo from './logo.svg';
 import './App.css';
-import userEvent from '@testing-library/user-event';
 
 export default function App() {
   // console.log("Hi");
